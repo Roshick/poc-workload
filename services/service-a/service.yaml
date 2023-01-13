@@ -2,4 +2,4 @@ service: service-a
 repoURL: https://bitnami-labs.github.io/sealed-secrets
 chart: sealed-secrets
 providers:
-  test-set: {}
+  test-set: true
