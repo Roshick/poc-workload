@@ -1,0 +1,3 @@
+service: service-a
+providers:
+  test-set: {}
